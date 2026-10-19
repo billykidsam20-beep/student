@@ -1,0 +1,63 @@
+##############################################################
+                  LEARNER PERFORMANCE REPORT                  
+##############################################################
+ID: 25/222   Name: Cedric Mtai
+Programme: MDS
+Scores: Math: 75, English: 80, Science: 70
+Mean: 75.00   Grade: B
+Category: Standard learner - no bursary
+..............................................................
+ID: 25/224   Name: Rorbato Carlos
+Programme: MDS
+Scores: Math: 90, English: 85, Science: 88
+Mean: 87.67   Grade: A
+Category: Bursary learner - QUALIFIES (KES 60,000)
+Bursary status: Qualified
+..............................................................
+ID: 25/226   Name: Paul wanyama
+Programme: MDA
+Scores: Math: 60, English: 65, Science: 58
+Mean: 61.00   Grade: C
+Category: Standard learner - no bursary
+..............................................................
+ID: 25/228   Name: Ruth wambui
+Programme: MDA
+Scores: Math: 95, English: 92, Science: 90
+Mean: 92.33   Grade: A
+Category: Bursary learner - QUALIFIES (KES 90,000)
+Bursary status: Qualified
+..............................................................
+ID: 25/301   Name: Rose Onyango
+Programme: MDS
+Scores: Math: 86, English: 89, Science: 84
+Mean: 86.33   Grade: A
+Category: Bursary learner - QUALIFIES (KES 45,000)
+Bursary status: Qualified
+..............................................................
+ID: 25/305   Name: David Mwangi
+Programme: MDA
+Scores: Math: 58, English: 62, Science: 55
+Mean: 58.33   Grade: D
+Category: Standard learner - no bursary
+..............................................................
+ID: 25/309   Name: Zawadi Gift
+Programme: MDS
+Scores: Math: 79, English: 74, Science: 81
+Mean: 78.00   Grade: B
+Category: Bursary learner - does NOT qualify (KES 25,000)
+Bursary status: Not qualified
+..............................................................
+ID: 25/312   Name: Peter Njoroge
+Programme: MDA
+Scores: Math: 92, English: 87, Science: 95
+Mean: 91.33   Grade: A
+Category: Standard learner - no bursary
+..............................................................
+                        CLASS SUMMARY                         
+##############################################################
+Number of learners : 8
+Highest mean       : 92.33 - Ruth wambui
+Lowest mean        : 58.33 - David Mwangi
+Class mean         : 78.75
+Bursary qualifiers : 3 (Rorbato Carlos, Ruth wambui, Rose Onyango)
+##############################################################
